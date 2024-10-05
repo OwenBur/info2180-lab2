@@ -8,6 +8,54 @@ body {
     font-family: Arial, sans-serif;
 } 
 
+main{
+    width: 80%;
+    margin: 20px auto;
+
+}
+
+.blog-post{
+    margin-bottom: 40px;
+    clear:both;
+}
+
+h2{
+    font-size:24px;
+    margin-bottom: 10px;
+
+}
+
+.post-meta {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+
+}
+
+.post-image {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+
+}
+
+.post-image.left {
+    float:left;
+    margin-right: 15px;
+
+}
+
+.post-image.right{
+    float:right;
+    margin-left: 15px;
+}
+
+p{
+    line-height: 1.6;
+    margin-bottom: 15px;
+
+}
+
 header {
     background-color:#f4f4f4;
     padding: 20px;
